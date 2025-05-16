@@ -9,5 +9,3 @@
 /fc.w
 /fc_nchw.b
 /fc_nchw.w
-/train_mnist_tinycnn.py
-/train_mnist_tinycnn_nchw.py
