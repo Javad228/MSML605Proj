@@ -2,6 +2,8 @@
 
 ## Quick Setup
 
+**[Open the project notebook in Google Colab →](605FinalProject.ipynb)**
+
 For the easiest setup, simply open the provided Jupyter notebook in Google Colab and run all cells—no local installation required.
 
 ## Manual Setup
