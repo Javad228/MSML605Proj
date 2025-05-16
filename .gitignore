@@ -1,0 +1,13 @@
+/conference_101719.tex
+/conv1.b
+/conv1.w
+/conv1_nchw.b
+/conv1_nchw.w
+/conv2.b
+/conv2.w
+/fc.b
+/fc.w
+/fc_nchw.b
+/fc_nchw.w
+/train_mnist_tinycnn.py
+/train_mnist_tinycnn_nchw.py
