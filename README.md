@@ -1,10 +1,10 @@
 # MNIST TinyCNN Profiling and Analysis
 
-## Quick Start
+## Quick Setup
 
-For the easiest setup, simply open the provided Jupyter notebook in [Google Colab](https://colab.research.google.com/) and run all cells—no local installation required.
+For the easiest setup, simply open the provided Jupyter notebook in Google Colab and run all cells—no local installation required.
 
-## Manual Setup (Optional)
+## Manual Setup
 
 1. 
     ```bash
